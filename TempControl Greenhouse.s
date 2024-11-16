@@ -1,4 +1,5 @@
-#TempControl Greenhouse
+#TempControl for Greenhouse air supply
+#Incomplete, need to pull the finished script from in game. Pressure check is incomplete
 
 define TempSensor HASH("StructureGasSensor")
 define WallHeater HASH("StructureWallHeater")

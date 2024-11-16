@@ -1,4 +1,6 @@
 #TonyTracker to turn on Base Beacon
+#Script monitors two players using Logic Transmitters to monitor location of player's Advanced Tablet
+#Transmitters are named TrackerTSquared and TrackerDoubleT 
 define LEDDisplay HASH("StructureConsoleLED5")
 define TonyTracker HASH("StructureLogicTransmitter")
 define BaseBeacon HASH("StructureBeacon")
